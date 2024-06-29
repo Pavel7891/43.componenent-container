@@ -19,8 +19,8 @@ const root = createRoot(container);
       <App 
       state = {state}    
       dispatch = {store.dispatch.bind(store)}
-      addPost = {store.addPost.bind(store)}
-      updateNewPost = {store.updateNewPost.bind(store)}
+      //addPost = {store.addPost.bind(store)}
+      //updateNewPost = {store.updateNewPost.bind(store)}
       />
     </BrowserRouter>
  )

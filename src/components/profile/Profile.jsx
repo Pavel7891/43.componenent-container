@@ -17,8 +17,8 @@ const Profile =(props)=> {
         // posts = {props.profilePage.postsArray} 
         // newPostText = {props.profilePage.newPostText}
         // dispatch = {props.dispatch}
-        addPost = {props.addPost}
-        updateNewPost = {props.updateNewPost}
+        //addPost = {props.addPost}
+        //updateNewPost = {props.updateNewPost}
         />
     </div>)
 }

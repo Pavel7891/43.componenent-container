@@ -24,8 +24,8 @@ debugger;
       state = {props.state}
         // profilePage ={props.state.profilePage} 
       dispatch = {props.dispatch}
-      addPost = {props.addPost}
-      updateNewPost = {props.updateNewPost} 
+      //addPost = {props.addPost}
+      //updateNewPost = {props.updateNewPost} 
       />}/>
       <Route
        path = "/dialogues" 
